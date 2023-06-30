@@ -1,2 +1,3 @@
-# MLDoc
-docsify  MLNote
+## 前言
+
+斯坦福大学吴恩达机器学习笔记逐字稿
