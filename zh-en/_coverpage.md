@@ -1,16 +1,16 @@
 <!-- _coverpage.md -->
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](./img/icon.svg)
 
-# Docsify使用指南 
+# 斯坦福大学吴恩达机器学习笔记 
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 🎈Stanford University Andrew Ng Machine Learning Note🎈
 
- 简单、轻便
-- 无需生成 html 文件
-- 众多主题
+在进行特定编程的情况下，给予计算机学习能力的领域。
+- 🤓训练集 - 看书
+- 💪验证集 - 作业
+- 👻测试集 - 考试
 
 
-[Gitee](https://gitee.com/librarycodes/docsify-low-cost-model)
-[GitHub](https://gitee.com/librarycodes/docsify-low-cost-model)
-[Docsify](https://docsify.js.org/#/)
-[Get Started](README.md)
+[实战项目](https://github.com/daisir8/ailearning)
+[快速开始](README.md)
+
